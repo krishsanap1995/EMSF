@@ -9,6 +9,8 @@ public class EmsfApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EmsfApplication.class, args);
+		
+		System.out.println("hello everyone");
 	}
 
 }
